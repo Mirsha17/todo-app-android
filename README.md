@@ -1,1 +1,2 @@
-A simple and efficient Todo Application built using Android Studio, designed to help users create, read, update, and delete daily tasks. This project demonstrates clean UI design, proper state management, and essential CRUD operations — making it ideal for learning Android development basics and showcasing skills in mobile app development.
+A simple and efficient Todo Application built using Android Studio, designed to help users create, read, update, and delete daily tasks. 
+This project demonstrates clean UI design, proper state management, and essential CRUD operations — making it ideal for learning Android development basics and showcasing skills in mobile app development.
